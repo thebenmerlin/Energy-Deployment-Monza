@@ -1,0 +1,8 @@
+F1 2026 Energy Deployment Optimization - Monza
+==================================================
+
+Optimal Lap Time: 1:59.041
+Lap Time (s): 119.041
+Initial SOC: 80.0%
+Final SOC: 0.0%
+Mean Deployment: 7.9%
